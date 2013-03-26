@@ -49,9 +49,9 @@
     <Compile Include="UnitTest1.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Brainmess2\Brainmess2.csproj">
+    <ProjectReference Include="..\Brainmess2\Brainmess.csproj">
       <Project>{79D11D5E-FF10-424F-9D4F-DA327320CEC0}</Project>
-      <Name>Brainmess2</Name>
+      <Name>Brainmess</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

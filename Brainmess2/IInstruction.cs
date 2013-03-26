@@ -1,4 +1,6 @@
-﻿namespace Brainmess
+﻿using Brainmess;
+
+namespace Brainmess
 {
     public interface IInstruction
     {

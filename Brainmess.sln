@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brainmess2", "Brainmess2\Brainmess2.csproj", "{79D11D5E-FF10-424F-9D4F-DA327320CEC0}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brainmess", "Brainmess2\Brainmess.csproj", "{79D11D5E-FF10-424F-9D4F-DA327320CEC0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainmessTest", "BrainmessTest\BrainmessTest.csproj", "{3FE25DCC-EBDF-4E6D-8E06-379D85A32FA7}"
 EndProject

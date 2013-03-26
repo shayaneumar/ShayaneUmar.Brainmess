@@ -1,7 +1,6 @@
-﻿
-
-using System;
+﻿using System;
 using System.Collections.Generic;
+
 namespace Brainmess
 {
     public class TapeMemory
