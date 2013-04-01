@@ -4,7 +4,7 @@ using Brainmess;
 namespace BrainmessTest
 {
     [TestClass]
-    public class UnitTest1
+    public class BrainmessUnitTest
     {
         [TestMethod]
         public void TestForwardInstruction()
